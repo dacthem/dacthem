@@ -1,0 +1,3 @@
+viet chuong trinh nhap thong tin sinh vien gom cac truong:
+maSV, HoVaTen, DiemToan, DiemLy, DiemHoa
+luu thong tin cac sinh vien vao excel theo thu tu tang dan cua diem trung binh ba mon toan, ly, hoa
